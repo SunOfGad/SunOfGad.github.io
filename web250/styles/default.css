@@ -1,7 +1,7 @@
 body {
     
     color: silver;
-    background-color: rgb(90, 134, 134);
+    background-color: teal;
     font-family: Tahoma;
     margin-left: 200px;
     margin-right: 200px;
@@ -29,30 +29,4 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-}
-
-.myNav {
-    display: block;
-    height: 50px;
-    line-height: 50px;
-    background-color: #333;
-}
-
-.myNav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-.myNav li {
-    float: left;
-}
-
-.myNav li a {
-    display: inline-block;
-    text-align: center;
-    padding: 14px 16px;
-}
-
-.myNav li a.active {
-    background-color: #3786E1;
 }
