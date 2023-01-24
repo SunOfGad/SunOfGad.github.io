@@ -31,38 +31,28 @@ p {
     margin-inline-end: 0px;
 }
 
-nav {
-    border-bottom: 5px solid #0966C2;
-  }
-  nav ul {
+.myNav {
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    background-color: #333;
+}
+
+.myNav ul {
+    list-style: none;
     padding: 0;
     margin: 0;
-    list-style-type: none;
-    font-size: 2rem;
-    display: flex;
-    justify-content: flex-end;
-  }
-  nav li:first-child {
-    margin-right: auto;
-    font-size: 6rem;
-    padding: 0.5rem 1rem 0 1rem;
-    color: #0966C2;
-  }
-  nav a {
-    color: #0966C2;
-    text-decoration: none;
-    display: block;
-    padding: 1rem 1rem 0rem 1rem;
+}
+.myNav li {
+    float: left;
+}
+
+.myNav li a {
+    display: inline-block;
     text-align: center;
-  }
-  nav span::before {
-      content: "\a";
-      white-space: pre;
-  }
-  nav a:hover {
-    color: white;
-    background-color: #0966C2;
-  }
-  nav a:hover i {
-    color: #F3BA64;
-  }
+    padding: 14px 16px;
+}
+
+.myNav li a.active {
+    background-color: #3786E1;
+}
