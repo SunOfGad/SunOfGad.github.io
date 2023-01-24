@@ -9,7 +9,6 @@ body {
 
 header {
     text-align: center;
-    background: rgb(217, 86, 86);
     content: '';
     display: table;
     clear: both;
