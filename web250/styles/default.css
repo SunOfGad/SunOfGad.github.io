@@ -1,7 +1,7 @@
 body {
     
     color: silver;
-    background-color: teal;
+    background-color: rgb(90, 134, 134);
     font-family: Tahoma;
     margin-left: 200px;
     margin-right: 200px;
@@ -9,6 +9,7 @@ body {
 
 header {
     text-align: center;
+    background: whitesmoke;
 }
 
 footer {
