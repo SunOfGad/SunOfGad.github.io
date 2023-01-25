@@ -26,8 +26,6 @@ ul {
     position : fixed;
     top : 0;
     width : 100%;
-    border : 1px solid #e7e7e7;
-    background-color : #f3f3f3;
 }
 
 li {
@@ -47,5 +45,5 @@ li a:hover {
 }
 
 .active {
-    background-color : #4CAF50;
+    background-color : orange;
 }
