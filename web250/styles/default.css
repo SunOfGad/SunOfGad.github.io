@@ -13,6 +13,10 @@ header {
 
 footer {
     text-align: center;
+    position: relative; 
+    margin-top: -150px; 
+    height: 150px; 
+    clear: both;
 }
 p.main {
     text-align: left;
