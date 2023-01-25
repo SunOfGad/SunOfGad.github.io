@@ -9,30 +9,11 @@ body {
 
 header {
     text-align: center;
-    content: '';
-    display: table;
-    clear: both;
 }
 
 footer {
     text-align: center;
-    display: inline-block;
-    margin-top: 2%;
 }
 p.main {
     text-align: left;
-}
-
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
-
-ul {
-    margin: 0px;
-    padding:0px;
-    list-style: none;
 }
