@@ -1,6 +1,6 @@
 body {
     
-    color: white;
+    color: black;
     background-color: teal;
     font-family: Tahoma;
     margin: 0;
@@ -11,7 +11,7 @@ body {
 nav {
 
   background-color: #efac2f;
-  border-bottom: 3px solid;
+  border-bottom: 3px solid red;
 }
 header {
     text-align: center;
