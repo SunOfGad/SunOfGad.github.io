@@ -48,10 +48,9 @@ nav > ul > li {
 main {
 
 	display: block;
-	background-image: url("images/AAkyaw.jpg");
 	padding-top: 3em;
 	padding-bottom: 3em;
-	min-height: 85%;
+	min-height: 100%;
 }
 
 
