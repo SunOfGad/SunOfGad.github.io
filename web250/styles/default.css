@@ -3,16 +3,22 @@
 }
 
 body {
-    
-    color: silver;
-    background-color: teal;
+    background-color: grey;
     font-family: Tahoma;
+    /*
     margin-left: 200px;
     margin-right: 200px;
+    */
+    height: 100;
 }
 
 header {
     text-align: center;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
 
   
