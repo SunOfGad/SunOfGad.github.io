@@ -1,3 +1,75 @@
+
+body {
+	background: url('Afrique.png');
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+
+.nav {
+	overflow: hidden;
+	background: white;
+
+}
+
+.nav a {
+	float: left;
+	color: #000;
+	text-align: center;
+	padding: 20px 18px;
+	font-size: 14px;
+	width: 100px;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.nav a:hover{
+	background: purple;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
 * {
 	margin: 0;
 }
@@ -69,17 +141,18 @@ aside {
 
 	text-align: center;
 }
-*/
+
 article {
 	width: 75%;
 }
 
-/*
+
 .columns{
 	display: flex;
 }
 */
 
+/*
 @media only screen and (min-width: 768px) {
 	main{
 	
@@ -94,3 +167,6 @@ article {
 		display: flex;
 	}
 }
+
+
+*/
