@@ -7,13 +7,13 @@ body {
 	font-family: Arial;
 }
 
-.nav {
+div.nav {
 	overflow: hidden;
 	background: white;
 
 }
 
-.nav a {
+div.nav a {
 	float: left;
 	color: #000;
 	text-align: center;
@@ -25,7 +25,7 @@ body {
 	text-transform: uppercase;
 }
 
-.nav a:hover{
+div.nav a:hover{
 	background: purple;
 	color: #fff;
 }
