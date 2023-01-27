@@ -1,11 +1,11 @@
 body {
     
     color: black;
-    /*background-color: lightseagreen;*/
+    background-color: lightseagreen;
     font-family: Tahoma;
-    margin: 8px;
-    padding: 4px;
-    text-align: justify;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 
 }
 nav {
