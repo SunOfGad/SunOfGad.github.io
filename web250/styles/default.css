@@ -6,7 +6,6 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-
 }
 nav {
 
@@ -107,5 +106,9 @@ p {
 }
 
 h2 {
+  text-align: center;
+}
+
+section {
   text-align: center;
 }
