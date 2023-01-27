@@ -1,7 +1,7 @@
 body {
     
     color: black;
-    background-color: lightgoldenrodyellow;
+    background-color: salmon;
     font-family: Tahoma;
     margin: 0;
     padding: 0;
@@ -10,8 +10,8 @@ body {
 }
 nav {
 
-  background-color: salmon;
-  border-bottom: 3px solid gray;
+  background-color: gray;
+  border-bottom: 3px solid white;
 }
 header {
     text-align: center;
