@@ -43,7 +43,7 @@ li {
 
 li a {
     display : block;
-    color : #2c3e57;
+    color : white;
     text-align : center;
     padding: 1 rem;
     text-decoration: none;
@@ -87,7 +87,7 @@ footer.navbar {
   
   /* Add a color to the active/current link */
   footer.navbar a.active {
-    background-color: #04AA6D;
+    background-color: red;
     color: white;
   }
 
