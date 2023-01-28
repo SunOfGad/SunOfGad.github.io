@@ -127,7 +127,7 @@ section {
   line-height:1.5;
 }
 
-.intros{
+.intros > ul > li{
   display: flex;
   flex-wrap: wrap;
   height: auto;
@@ -140,7 +140,7 @@ section {
 
 }
 
-.intro {
+.intro > ul > li {
   display: flex;
   flex-wrap: wrap;
   padding-right: 100px;
