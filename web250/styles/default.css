@@ -131,3 +131,8 @@ section {
 header.intro {
   text-align: left;
 }
+
+article {
+    width: 75%;
+    height: 100%;
+}
