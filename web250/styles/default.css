@@ -40,7 +40,7 @@ nav.li {
     display: inline-block;
 }
 
-nav.li a {
+li a {
     display : block;
     color : white;
     text-align : center;
@@ -51,7 +51,7 @@ nav.li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-nav.li a:hover {
+li a:hover {
     background-color : yellow;
     color:green;
 
@@ -118,4 +118,8 @@ h2 {
 
 header.intro {
   text-align: center;
-} 
+}
+
+article {
+    height: 100%;
+}
