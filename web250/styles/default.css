@@ -3,7 +3,7 @@ body {
     color: black;
     background-color: lightseagreen;
     font-family: Tahoma;
-    margin: 0;
+    margin: 0 0 100px;
     padding: 0;
     text-align: center;
 }
@@ -127,7 +127,7 @@ section {
   line-height:1.5;
 }
 
-.intro{
+.intros{
   display: flex;
   flex-wrap: wrap;
   height: auto;
@@ -138,4 +138,16 @@ section {
   text-align: center;
   margin: 0.5em 0 0.5em 0;
 
+}
+
+.intro {
+  display: flex;
+  flex-wrap: wrap;
+  padding-right: 100px;
+  height: auto;
+  padding-left: 100px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 70px;
+  font-size: 15px;
 }
