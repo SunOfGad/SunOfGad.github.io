@@ -1,5 +1,4 @@
 body {
-    
     color: black;
     background-color: lightseagreen;
     font-family: Tahoma;
@@ -33,7 +32,7 @@ ul {
     margin : 0;
     padding : 0;
     overflow : hidden;
-    background-color : lightpurple;
+    background-color : blueviolet;
 
 }
 
