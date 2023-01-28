@@ -129,27 +129,6 @@ section {
   line-height:1.5;
 }
 
-.intros > ul > li{
-  display: flex;
-  flex-wrap: wrap;
-  height: auto;
-  font: 20px Arial;
-  padding-left: 15%;
-  padding-top: 150px;
-  padding-right: 20%;
-  text-align: center;
-  margin: 0.5em 0 0.5em 0;
-
-}
-
-.intro > ul > li {
-  display: flex;
-  flex-wrap: wrap;
-  padding-right: 100px;
-  height: auto;
-  padding-left: 100px;
-  margin-right: 50px;
-  margin-left: 50px;
-  margin-top: 70px;
-  font-size: 15px;
+header.intro {
+  text-align: left;
 }
