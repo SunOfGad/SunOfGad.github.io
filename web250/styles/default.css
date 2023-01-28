@@ -142,8 +142,8 @@ html {
 }
 
 section > ul > li { font: 25px Arial, sans-serif;
-  padding-left: 5%;
+  padding-left: 15%;
   padding-top: 75px;
-  padding-right: 10%;
+  padding-right: 20%;
   background-color: lightgreen;
 }
