@@ -8,7 +8,6 @@ body {
     text-align: center;
 }
 nav {
-
   background-color: black;
   border-bottom: 3px solid grey;
 }
@@ -28,7 +27,7 @@ p.main {
     text-align: center;
 }
 
-ul {
+nav.ul {
     list-style-type : none;
     margin : 0;
     padding : 0;
@@ -37,11 +36,11 @@ ul {
 
 }
 
-li {
+nav.li {
     display: inline-block;
 }
 
-li a {
+nav.li a {
     display : block;
     color : white;
     text-align : center;
@@ -52,7 +51,7 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+nav.li a:hover {
     background-color : yellow;
     color:green;
 
@@ -111,17 +110,6 @@ h2 {
   text-align: center;
 }
 
-/*
-section {
-  font: 20px Arial;
-  padding-left: 15%;
-  padding-top: 150px;
-  padding-right: 20%;
-  text-align: center;
-}
-
-*/
-
 .content {
 
   margin: 100px;
@@ -130,8 +118,4 @@ section {
 
 header.intro {
   text-align: center;
-}
-
-article {
-    height: 100%;
-}
+} 
