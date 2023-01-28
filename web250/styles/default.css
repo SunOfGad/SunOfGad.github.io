@@ -25,11 +25,11 @@ footer {
   }
 
 p.main {
-    text-align: center;
+    text-align: left;
 }
 
 ul {
-    list-style-type : none;
+    list-style-type : disc;
     margin : 0;
     padding : 0;
     overflow : hidden;
