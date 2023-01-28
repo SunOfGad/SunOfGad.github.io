@@ -61,7 +61,7 @@ footer.navbar {
     background-color: orchid;
     overflow: hidden;
     position: fixed;
-    bottom: 0;
+    bottom: 0%;
     width: 100%;
     margin: 0;
     padding: 15px;
