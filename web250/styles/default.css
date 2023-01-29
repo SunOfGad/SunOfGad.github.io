@@ -141,4 +141,5 @@ section > ul > li { font: 25px Arial, sans-serif;
 .menu ul, li {
   text-decoration: none;
     list-style-type: disc;
+    display: inline-block;
 }
