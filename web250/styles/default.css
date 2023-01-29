@@ -27,7 +27,7 @@ p.main {
     text-align: left;
 }
 
-main.ul {
+.ul {
     list-style-type : disc;
     margin : 0;
     padding : 0;
@@ -36,7 +36,7 @@ main.ul {
 
 }
 
-main.li {
+.li {
     display: inline-block;
 }
 
