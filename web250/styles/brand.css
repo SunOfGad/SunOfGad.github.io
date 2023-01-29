@@ -112,6 +112,7 @@ body {
 	margin: 0 0 100px;
 	padding: 0;
 	text-align: center;
+	margin: 8px;
 }
 
 	::marker {
@@ -123,23 +124,55 @@ body {
 		text-align-last: start !important;
 	}
 
-	p {
+p {
 		display: block;
 		margin-block-start: 1em;
 		margin-block-end: 1em;
 		margin-inline-start: 0px;
 		margin-inline-end: 0px;
-	  }
+}
 	
-	  h2 {
+h2 {
 		text-align: center;
-	  }
+}
 
-	  html {
+html {
 
 		display:block;
-	  }
+	}
 
-	  header {
+header, footer {
 		text-align: center;
 	  }
+
+main {
+	margin-top: 200px;
+	margin-left: 200px;
+	display: block;
+
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+nav {
+	display: block;
+	font-size: 150%;
+
+}
+
+a {
+	text-decoration: none;
+	background-color: aquamarine;
+}
+
+footer {
+
+}
