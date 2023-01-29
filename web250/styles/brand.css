@@ -97,11 +97,12 @@ article {
 
 li {
     display: list-item;
-    text-align: -webkit-match-parent;
+    text-align: -webkit-match-parent;	
 }
 
 ul {
     list-style-type: disc;
+	text-align: center;
 }
 
 body {
