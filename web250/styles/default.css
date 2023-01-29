@@ -143,7 +143,4 @@ section > ul > li { font: 25px Arial, sans-serif;
 .menu ul, li {
   text-decoration: none;
     list-style-type: disc;
-    padding: 10px;
-    margin-left: 10px;
-    border: 2px solid teal;
 }
