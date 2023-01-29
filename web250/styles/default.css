@@ -7,10 +7,10 @@ body {
     text-align: center;
 }
 nav {
-
   background-color: black;
   border-bottom: 3px solid grey;
 }
+
 header {
     text-align: center;
 }
@@ -89,16 +89,7 @@ footer.navbar {
     background-color: teal;
     color: white;
   }
-
-  /*
-  section {
-    font: 5px Arial;
-    padding-left: 10%;
-    padding-top: 10px;
-    padding-right: 5%;
-    text-align: center;
-}
-*/
+  
 p {
   display: block;
   margin-block-start: 1em;
