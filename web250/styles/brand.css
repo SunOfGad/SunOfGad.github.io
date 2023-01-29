@@ -1,3 +1,4 @@
+/*
 * {
 	margin: 0;
 }
@@ -92,3 +93,28 @@ article {
 		display: flex;
 	}
 }
+*/
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: cornsilk;
+	background-color: royalblue;
+}
+
+	::marker {
+		unicode-bidi: isolate;
+		font-variant-numeric: tabular-nums;
+		text-transform: none;
+		text-indent: 0px !important;
+		text-align: start !important;
+		text-align-last: start !important;
+	}
