@@ -28,7 +28,7 @@ p.main {
 }
 
 ul {
-    list-style-type : none;
+    list-style-type : disc;
     margin : 0;
     padding : 0;
     overflow : hidden;
@@ -135,7 +135,7 @@ html {
 
 section > ul > li { font: 25px Arial, sans-serif;
   padding-left: 15%;
-  padding-top: 20px;
+  padding-top: 50px;
   padding-right: 20%;
   background-color: lightgreen;
 }
