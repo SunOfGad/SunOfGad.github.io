@@ -117,6 +117,7 @@ section {
 
   margin: 100px;
   line-height:1.5;
+  text-align: center;
 }
 
 header.intro {
@@ -140,8 +141,3 @@ section > ul > li { font: 25px Arial, sans-serif;
   background-color: lightgreen;
 }
 
-main > ul > li {
-
-  background-color: none;
-  text-align: center;
-}
