@@ -139,3 +139,9 @@ section > ul > li { font: 25px Arial, sans-serif;
   padding-right: 20%;
   background-color: lightgreen;
 }
+
+main > ul > li {
+
+  background-color: none;
+  text-align: center;
+}
