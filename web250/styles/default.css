@@ -46,8 +46,7 @@ li a {
     text-align : center;
     padding: 1rem;
     text-decoration: none;
-    border-right: 3px solid #bbb;
-    
+    border-right: 3px solid #bbb;  
 }
 
 /* Change the link color to #111 (black) on hover */
@@ -117,7 +116,7 @@ section {
   line-height:1.5;
 }
 
-header.intro {
+.intro {
   text-align: center;
 }
 
@@ -138,8 +137,4 @@ section > ul > li { font: 25px Arial, sans-serif;
   background-color: lightgreen;
 }
 
-.menu ul, li {
-  text-decoration: none;
-    list-style-type: disc;
-    display: inline-block;
-}
+
