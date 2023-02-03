@@ -139,4 +139,7 @@ section > ul > li { font: 25px Arial, sans-serif;
   background-color: lightgreen;
 }
 
-
+.menu {
+  text-align: center;
+  
+}
