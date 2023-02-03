@@ -6,12 +6,12 @@ body {
     padding: 0;
     text-align: center;
 }
-
+/*
 nav {
   background-color: black;
   border-bottom: 3px solid grey;
 }
-
+*/
 header {
     text-align: center;
 }
@@ -64,11 +64,7 @@ footer.navbar {
     margin: 0;
     padding: 15px;
   }
-
-
-footer.ul {
-  background-color: blueviolet;
-}
+  
   
   /* Style the links inside the navigation bar */
   footer.navbar a {
