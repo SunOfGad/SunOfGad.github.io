@@ -33,7 +33,6 @@ ul {
     margin : 0;
     padding : 0;
     overflow : hidden;
-    background-color : blueviolet;
 
 }
 
@@ -62,8 +61,13 @@ footer.navbar {
     bottom: 0%;
     width: 100%;
     margin: 0;
-    /*padding: 15px;*/
+    padding: 15px;
   }
+
+
+footer.ul {
+  background-color: blueviolet;
+}
   
   /* Style the links inside the navigation bar */
   footer.navbar a {
