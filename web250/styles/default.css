@@ -6,12 +6,16 @@ body {
     padding: 0px;
     text-align: center;
 }
-/*
-nav {
-  background-color: black;
-  border-bottom: 3px solid grey;
+
+h2 {
+  text-align: center;
 }
-*/
+
+html {
+
+  display:block;
+}
+
 header {
     text-align: center;
 }
@@ -24,18 +28,15 @@ footer {
     text-align: center;           
   }
 
-p.main {
-    text-align: center;
-}
-
-ul {
-    list-style-type : disc;
-    margin : 0;
-    padding : 0;
-    overflow : hidden;
-    background-color : blueviolet;
-
-}
+  footer.navbar {
+    background-color: orchid;
+    overflow: hidden;
+    position: bottom;
+    bottom: 0%;
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+  }
 
 li {
     display: inline-block;
@@ -50,24 +51,11 @@ li a {
     border-right: 3px solid #bbb;  
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color : yellow;
 }
-
-footer.navbar {
-    background-color: orchid;
-    overflow: hidden;
-    position: bottom;
-    bottom: 0%;
-    width: 100%;
-    margin: 0;
-    padding: 15px;
-  }
   
-  
-  /* Style the links inside the navigation bar */
-  footer.navbar a {
+footer.navbar a {
     float: left;
     display: block;
     color: #f2f2f2;
@@ -77,13 +65,11 @@ footer.navbar {
     font-size: 17px;
   }
   
-  /* Change the color of links on hover */
   footer.navbar a:hover {
     background-color: #ddd;
     color: orchid;
   }
   
-  /* Add a color to the active/current link */
   footer.navbar a.active {
     background-color: teal;
     color: white;
@@ -97,23 +83,22 @@ p {
   margin-inline-end: 0px;
 }
 
-h2 {
+nav {
+  background-color: black;
+  border-bottom: 3px solid grey;
+}
+
+p.main {
   text-align: center;
 }
 
-/*
-section {
-  font: 20px Arial;
-  padding-left: 15%;
-  padding-top: 150px;
-  padding-right: 20%;
-  text-align: center;
+ul {
+  list-style-type : disc;
+  margin : 0;
+  padding : 0;
+  overflow : hidden;
+  background-color : blueviolet;
 }
 
-*/
 
-html {
-
-  display:block;
-}
 
