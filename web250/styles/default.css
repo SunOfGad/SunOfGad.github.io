@@ -35,6 +35,10 @@ header {
     padding: 10px;
   }
 
+li {
+    display: inline-block;
+}
+
 li a {
     display : block;
     color : white;
