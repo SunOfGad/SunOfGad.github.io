@@ -93,6 +93,6 @@ menu> ul > li {
   display: inline-block;
 }
 
-.list {
+.list > ul > li {
   text-align: center;
 }
