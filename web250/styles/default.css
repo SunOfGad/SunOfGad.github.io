@@ -95,4 +95,7 @@ menu> ul > li {
 
 .list > ul > li {
   text-align: center;
+  display: inline-block;
+  margin-left: 50%;
+  transform: translateX(-50%);
 }
