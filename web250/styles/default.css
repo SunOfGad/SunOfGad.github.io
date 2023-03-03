@@ -84,16 +84,15 @@ nav {
   border-bottom: 1.5px solid grey;
 }
 
+/*
 menu> ul > li {
   list-style-type : disc;
   margin : 0;
   padding : 0;
   overflow : hidden;
   /*background-color : blueviolet;*/
+  /*
   display: inline-block;
 }
 
-.list > ul > li {
-  text-align: center;
-  display: inline-block;
-}
+*/
