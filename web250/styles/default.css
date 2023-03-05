@@ -4,16 +4,12 @@ body {
     font-family: Tahoma;
     margin: 2rem 2rem 100px;
     padding: 0px;
-    display: list-item;
 }
 
 h2 {
   text-align: center;
 }
 
-html {
-  display:block;
-}
 
 header {
     text-align: center;
@@ -84,7 +80,12 @@ nav {
     bottom: 0;
     width: 100%;
     height: 4rem; 
-    text-align: center;           
+    text-align: center;       
+    
+    
+html {
+  display:block;
+}
   } */
 
  
