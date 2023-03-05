@@ -4,7 +4,6 @@ body {
     font-family: Tahoma;
     margin: 0 0 100px;
     padding: 0px;
-    text-align: center;
 }
 
 h2 {
@@ -42,7 +41,6 @@ li {
 li a {
     display : block;
     color : white;
-    text-align : center;
     padding: 0rem;
     text-decoration: none;
     border-right: 2px solid #bbb;  
@@ -56,7 +54,6 @@ footer.navbar a {
     float: left;
     display: block;
     color: #f2f2f2;
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
