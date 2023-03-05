@@ -2,8 +2,8 @@ body {
     color: black;
     background-color: lightseagreen;
     font-family: Tahoma;
-    margin: 0 0 100px;
-    padding: 0px;
+    margin: 3rem 3rem 100px;
+    padding: 10px;
 }
 
 h2 {
@@ -95,6 +95,4 @@ menu> ul > li {
 */
 .container{
  text-align: center;
- margin : 0;
- padding : 0;
 }
