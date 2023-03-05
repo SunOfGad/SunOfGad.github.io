@@ -202,7 +202,6 @@ footer.navbar a {
   nav {
 	background-color: blueviolet;
 	border-bottom: 1px solid gray;
-	position: fixed;
   }
 
   ul {
