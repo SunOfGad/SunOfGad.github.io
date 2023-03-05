@@ -252,14 +252,6 @@ figure {
     text-align-last: start !important;
 }
 
-ul {
-    display: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-}
 
 li {
     display: list-item;
@@ -284,3 +276,8 @@ footer.navbar a {
     background-color: teal;
     color: white;
   }
+
+  ul {
+    list-style-type: disc;
+	text-align: center;
+}
