@@ -102,6 +102,11 @@ nav {
  text-align: left;
 }
 
+section{
+  display: inline-block;
+  list-style-type: disc;
+}
+
 
 /* footer {
     position: absolute;
