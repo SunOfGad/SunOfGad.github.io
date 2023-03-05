@@ -265,3 +265,22 @@ li {
     display: list-item;
     text-align: -webkit-match-parent;
 }
+
+footer.navbar a {
+    float: center;
+    display: block;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  footer.navbar a:hover {
+    background-color: #ddd;
+    color: orchid;
+  }
+  
+  footer.navbar a.active {
+    background-color: teal;
+    color: white;
+  }
