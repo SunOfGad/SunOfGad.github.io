@@ -212,7 +212,7 @@ footer.navbar a {
   }
 
   li{
-	display: list-item;
+	display: inline-block;
 	border: 1px solid black;
 	margin-right: -8.5px;
   }
