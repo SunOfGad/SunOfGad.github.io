@@ -115,5 +115,10 @@ html {
   display:block;
 }
 
+.brand{
+  text-align: center;
+}
 
-  
+.validator{
+  text-align: center;
+}
