@@ -67,6 +67,47 @@ p {
 
 nav {
   border-bottom: 1.5px solid grey;
+  position : fixed;
+	top:0;
+	left:0;
+	width : 100%;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: auto;
+	padding: 0;
+    overflow: hidden;
+    background-color: #f3f3f3;
+	border: 1px solid #e7e7e7;
+	clear: both;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	color: #4CAF50;
+}
+
+nav ul ul  {
+	position : absolute;
+	padding : 0;
+	text-align : left;
+	display : none;
+}
+
+nav ul ul li {
+	border-bottom : 1px solid #bbb;
+	display : block;
+	width : 8em;
+	margin-left : 0;
 }
 
 .container{
