@@ -205,13 +205,13 @@ footer.navbar a {
 	border-top: 1px solid gray;
   }
 
-  ul {
+  nav > ul {
 	list-style-type: none;
 	margin: 0;
 	padding:0;
   }
 
-  li{
+  nav> li{
 	display: inline-block;
 	border: 1px solid black;
 	margin-right: -8.5px;
