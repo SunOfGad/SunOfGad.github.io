@@ -206,7 +206,7 @@ footer.navbar a {
   }
 
   ul {
-	list-style-type: disc;
+	list-style-type: none;
 	margin: 0;
 	padding:0;
   }
