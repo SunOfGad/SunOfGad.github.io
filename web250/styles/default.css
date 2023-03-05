@@ -1,7 +1,7 @@
 
 body {
     color: black;
-    background-color: teal;
+    background-color: lightseagreen;
     font-family: Tahoma;
     margin: 2rem 2rem 100px;
     padding: 0px;
@@ -30,7 +30,7 @@ li {
 li a {
     display : block;
     color : white;
-    padding: 1rem;
+    padding: 0rem;
     text-decoration: none;
     border-right: 2px solid #bbb;  
 }
@@ -115,12 +115,5 @@ html {
   display:block;
 }
 
-.validator{
-  text-align: center;
-}
-
-.brand{
-  text-align: center;
-}
 
   
