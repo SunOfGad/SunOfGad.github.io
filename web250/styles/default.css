@@ -93,3 +93,11 @@ menu> ul > li {
 }
 
 */
+.container{
+  margin:0%;
+  margin-top: auto;
+  margin-bottom: 0rem ;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  padding: 0%;
+}
