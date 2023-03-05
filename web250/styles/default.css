@@ -70,7 +70,7 @@ footer.navbar a {
   }
   
 p {
-  display: block;
+  display: list-item;
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
