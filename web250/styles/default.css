@@ -85,3 +85,7 @@ nav {
     height: 4rem; 
     text-align: center;           
   } */
+
+  figure {
+    text-align: center;
+  }
