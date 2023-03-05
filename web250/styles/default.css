@@ -95,4 +95,6 @@ menu> ul > li {
 */
 .container{
  text-align: center;
+ margin : 0;
+ padding : 0;
 }
