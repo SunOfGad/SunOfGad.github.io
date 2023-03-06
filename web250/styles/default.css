@@ -26,15 +26,7 @@ header {
 li {
     display: list-item;
 }
-/*
-li a {
-    display : block;
-    color : white;
-    padding: 0rem;
-    text-decoration: none;
-    border-right: 2px solid #bbb;  
-}
-*/
+
 li a:hover {
     background-color : yellow;
 }
@@ -111,7 +103,8 @@ nav {
 
 footer {
     bottom: 0;
-    text-align: center;       
+    text-align: center;
+    list-style-type: none;       
 }
  
 html {
