@@ -23,10 +23,6 @@ header {
     padding: 10px;
   }
 
-li {
-    display: list-item;
-}
-
 li a:hover {
     background-color : yellow;
 }
