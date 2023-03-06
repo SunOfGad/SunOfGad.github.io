@@ -24,7 +24,7 @@ header {
   }
 
 li {
-    display: inline-block;
+    display: list-item;
 }
 /*
 li a {
@@ -139,5 +139,5 @@ html {
 }
 
 ul {
-  display: list-item;
+  list-style-type: disc;
 }
