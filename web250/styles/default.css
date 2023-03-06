@@ -67,7 +67,6 @@ nav {
 	border-bottom: 1px solid gray;
 	border-top: 1px solid gray;
   position: relative;
-  list-style-type: none;
   }
 
   nav > ul {
@@ -77,7 +76,7 @@ nav {
   }
 
   nav> li{
-	display: inline-block;
+	display: block;
 	border: 1px solid black;
 	margin-right: -8.5px;
   }
@@ -128,6 +127,5 @@ html {
 
 .validator{
   text-align: center;
-  list-style-type: none;
 }
 
