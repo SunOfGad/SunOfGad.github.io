@@ -123,7 +123,7 @@ html {
 
 
 ul {
-    display: block;
+    display: inline-block;
     list-style-type: disc;
     margin-block-start: 1em;
     margin-block-end: 1em;
