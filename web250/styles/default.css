@@ -108,11 +108,6 @@ nav {
 
 }
 
-section{
-  display: list-item;
-  list-style-type: disc;
-}
-
 
 footer {
     bottom: 0;
@@ -136,8 +131,4 @@ html {
 .validator{
   text-align: center;
   list-style-type: none;
-}
-
-.bullets{
-  list-style-type: disc;
 }
