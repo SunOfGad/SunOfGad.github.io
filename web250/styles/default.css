@@ -58,7 +58,7 @@ nav {
 	border-top: 1px solid gray;
   position: relative;
   }
-/*
+
 nav ul {
 	list-style-type: none;
 	margin: 0;
@@ -66,11 +66,11 @@ nav ul {
   }
 
 nav li{
-	display: block;
+	display: inline-block;
 	border: 1px solid black;
 	margin-right: -8.5px;
   }
-*/
+
 li a {
 	display: block;
   list-style: none;
@@ -121,13 +121,3 @@ html {
   list-style-type: none;
 }
 
-
-ul {
-    display: inline-block;
-    list-style-type: disc;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-}
