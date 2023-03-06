@@ -109,7 +109,7 @@ nav {
 }
 
 section{
-  display: inline-block;
+  display: list-item;
   list-style-type: disc;
 }
 
@@ -136,4 +136,8 @@ html {
 .validator{
   text-align: center;
   list-style-type: none;
+}
+
+ul {
+  display: list-item;
 }
