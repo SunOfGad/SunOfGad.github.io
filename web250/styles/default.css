@@ -138,6 +138,6 @@ html {
   list-style-type: none;
 }
 
-ul {
+.bullets{
   list-style-type: disc;
 }
