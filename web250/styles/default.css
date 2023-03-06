@@ -87,6 +87,7 @@ nav {
 	text-decoration: none;
 	color: black;
 	font-weight: bold;
+  border-right: 2px blanchedalmond;
   }
 
   a:hover {
