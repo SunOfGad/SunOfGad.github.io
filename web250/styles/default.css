@@ -83,7 +83,7 @@ nav {
 	margin-right: -8.5px;
   }
 
-  .a {
+  li a {
 	display: block;
 	padding: 1rem;
 	text-decoration: none;
