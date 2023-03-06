@@ -128,8 +128,10 @@ html {
 
 .brand{
   text-align: center;
+  
 }
 
 .validator{
   text-align: center;
+  list-style-type: none;
 }
