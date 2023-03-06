@@ -69,6 +69,7 @@ nav {
 	background-color: blueviolet;
 	border-bottom: 1px solid gray;
 	border-top: 1px solid gray;
+  position: relative;
   }
 
   nav > ul {
