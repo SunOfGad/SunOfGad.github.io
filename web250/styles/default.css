@@ -83,7 +83,7 @@ nav {
 	margin-right: -8.5px;
   }
 
-  a {
+  .a {
 	display: block;
 	padding: 1rem;
 	text-decoration: none;
@@ -131,7 +131,7 @@ html {
   line-height: 12pt;          
   letter-spacing: 2px; 
   padding: 8px 6px 1px 6px;       
- margin-right: 6px; 
+  margin-right: 6px; 
  
 }
 
