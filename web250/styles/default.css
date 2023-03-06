@@ -44,14 +44,6 @@ footer.navbar a.active {
     background-color : yellow;
 }
 
-p {
-  display: inline-block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-}
-
 nav {
 	background-color: blueviolet;
 	border-bottom: 1px solid gray;
@@ -83,6 +75,15 @@ li a {
 a:hover {
 	background-color: yellow;
 	color:black;
+  }
+
+
+  p {
+    display: inline-block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
   }
 
 
