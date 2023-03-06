@@ -130,6 +130,7 @@ html {
   list-style-type: none;
 }
 
-.bullets{
+.bullets > li{
   list-style-type: disc;
+  display: list-item;
 }
