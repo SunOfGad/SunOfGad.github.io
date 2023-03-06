@@ -67,6 +67,7 @@ nav {
 	border-bottom: 1px solid gray;
 	border-top: 1px solid gray;
   position: relative;
+  list-style-type: none;
   }
 
   nav > ul {
