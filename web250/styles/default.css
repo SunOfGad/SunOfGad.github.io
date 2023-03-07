@@ -188,7 +188,7 @@ body {
   background-color: rgb(237, 221, 201);
 }
 
-.floatRightClear{float:left;clear:left;margin-right:2px}
+.floatRightClear{float:right;clear:right;margin-left:2px}
 
 .divbox {
   background-color: rgba(0, 0, 0, 0.463);
