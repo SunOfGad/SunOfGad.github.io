@@ -189,3 +189,13 @@ body {
 }
 
 .floatRightClear{float:left;clear:left;margin-right:2px}
+
+.divbox {
+  background-color: rgba(0, 0, 0, 0.463);
+  width: 1090px;
+  height: auto;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin-top: 10px;
+}
