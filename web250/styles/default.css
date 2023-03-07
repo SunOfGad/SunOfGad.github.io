@@ -187,3 +187,38 @@ body {
   font-size: 1.2rem;
   background-color: rgb(237, 221, 201);
 }
+
+
+.rect {
+  margin: 20px;
+  width:200px;
+  height: 80px;
+  background-color: #5261AC;
+  position: relative;
+}
+.bookmark {
+  position: absolute;
+  top: -10px;
+  right: 10px;
+}
+.square {
+  height: 50px;
+  width: 30px;
+  background-color: #50C9B5;
+}
+.triangle-down {
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-top: 10px solid #50C9B5;
+}
+.bookmark-back {
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-bottom: 10px solid #38A1A4;
+  position: absolute;
+  top: 0;
+  left: -6px;
+}
