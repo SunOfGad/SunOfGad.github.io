@@ -188,4 +188,4 @@ body {
   background-color: rgb(237, 221, 201);
 }
 
-.floatRightClear{float:right;clear:right;margin-left:5px}
+.floatRightClear{float:left;clear:left;margin-right:2px}
