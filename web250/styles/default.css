@@ -204,7 +204,7 @@ body {
   color: green;
 }
 
-ul {
+.bullets {
   display: block;
   list-style-type: disc;
   margin-block-start: 1em;
