@@ -1,4 +1,7 @@
-
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+}
 
 h2 {
   text-align: center;
@@ -35,11 +38,12 @@ footer.navbar a.active {
   }
 
   p {
-    display: inline-block;
+    display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    text-align: justify;
   }
 
 .container{
@@ -163,4 +167,9 @@ body {
 
 .picture{
   text-align: center;
+}
+
+.mainbrand{
+  margin-left: 50px;
+  margin-right: 50px;
 }
