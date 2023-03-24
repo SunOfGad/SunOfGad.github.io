@@ -5,8 +5,6 @@ body {
   padding: 0;
   font-size: 1.2rem;
   background-color: rgb(237, 221, 201);
-  margin-left: 0px;
-  margin-right: 0px;
 }
 
 h2 {
@@ -50,6 +48,8 @@ footer.navbar a.active {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
   }
 
 .container{
