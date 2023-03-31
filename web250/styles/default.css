@@ -146,6 +146,7 @@ html {
   padding-top: 20px;
   padding-bottom: 20px;
   margin-top: 20px;
+  box-shadow: 0 0 0 5px black;
 }
 
 .color{
