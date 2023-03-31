@@ -48,7 +48,7 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     text-align: justify;
-    color:#00bff3;
+  
   }
 
 .container{
@@ -127,6 +127,8 @@ nav a:hover {
 
 html {
   box-sizing: border-box;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 *,
@@ -148,6 +150,7 @@ html {
   margin-bottom: 50px;
   margin-left: 100px;
   margin-right: 100px;
+  box-shadow: 0 0 0 5px black;
 }
 
 .color{
