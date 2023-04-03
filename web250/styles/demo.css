@@ -98,7 +98,7 @@ p {
     list-style-type: none;
   }
 
-  footer {
+footer {
     bottom: 0;
     text-align: center;
     display:inline;      
@@ -108,12 +108,7 @@ p {
     color: red;
   }
 
-  nav a:active {
-	color:green;
-	text-decoration: none;
-}
-
-  nav div 
+nav div 
 {	
 	width:100%;
 	height:100%;
