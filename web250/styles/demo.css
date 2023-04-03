@@ -115,3 +115,7 @@ nav div
 	background-color: #f3f3f3;
 }
 
+footer div {
+    position: fixed;
+    bottom: 0%;
+}
