@@ -35,6 +35,10 @@ nav li a {
     text-decoration: none;
 }
 
+h2 {
+    text-align: center;
+  }
+
 header{
     text-align: justify;
     color: teal;
