@@ -83,6 +83,7 @@ p {
 main a:visited {
     color: green;
     text-decoration: none;
+    margin: 0px 0px;
 }
 
 a:-webkit-any-link {
