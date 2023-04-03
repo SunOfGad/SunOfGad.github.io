@@ -1,5 +1,5 @@
 body {
-    
+    background-color: lightgrey;
     font-family: sans-serif;
     margin-top: 80px;
     padding: 30px;
@@ -7,7 +7,6 @@ body {
 
 main {
     color: lightskyblue;
-    background-color: aquamarine;
 }
 
 header {
