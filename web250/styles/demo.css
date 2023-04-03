@@ -1,3 +1,9 @@
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+}
+
 body {
     background-color: lightgrey;
     font-family: 30px, arial, sans-serif;
@@ -6,13 +12,45 @@ body {
     margin:0;
 }
 
-h1, h2 {
+.brand{
+    text-align: center;
+    font-size: 12pt;
+    line-height: 12pt;          
+    letter-spacing: 2px; 
+    padding: 8px 6px 1px 6px;       
+    margin-right: 6px; 
+   
+  }
+
+.container{
+    text-align: left;       
+    margin: 20px 40px 20px 40px;
+    font-size: 12pt;
+    line-height: 12pt;          
+    letter-spacing: 0px; 
+    margin-left: 50px;
+    margin-right: 50px;
+   }
+
+h2 {
     text-align: center;
   }
 
 header{
     text-align: justify;
     color: teal;
+}
+
+html {
+    margin-left: 100px;
+    margin-right: 100px;
+    font:20px Arial, sans-serif
+  }
+
+main a:visited {
+    color: green;
+    text-decoration: none;
+    margin: 0px 0px;
 }
 
 nav {
@@ -30,7 +68,6 @@ nav * {
     display: inline;
 }
 
-
 nav li {
     margin: 5px;
 }
@@ -40,6 +77,10 @@ nav li a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: navyblue;
+}
+ 
 p {
     display: block;
     margin-block-start: 1em;
@@ -49,53 +90,11 @@ p {
     text-align: center;
   }
 
-  .container{
-    text-align: left;       
-    margin: 20px 40px 20px 40px;
-    font-size: 12pt;
-    line-height: 12pt;          
-    letter-spacing: 0px; 
-    margin-left: 50px;
-    margin-right: 50px;
-   }
-
-   html {
-    margin-left: 100px;
-    margin-right: 100px;
-    font:20px Arial, sans-serif
-  }
-
-  .brand{
-    text-align: center;
-    font-size: 12pt;
-    line-height: 12pt;          
-    letter-spacing: 2px; 
-    padding: 8px 6px 1px 6px;       
-    margin-right: 6px; 
-   
-  }
-
-  .validator{
-    text-align: center;
-    list-style-type: none;
-  }
-
-main a:visited {
-    color: green;
-    text-decoration: none;
-    margin: 0px 0px;
-}
-
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-    text-decoration: none;
-}
-
-nav a:hover {
-    color: navyblue;
-}
-
 .picture{
     text-align: center;
+  }
+
+.validator{
+    text-align: center;
+    list-style-type: none;
   }
