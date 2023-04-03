@@ -58,7 +58,7 @@ nav {
     top: 0;
     left: 0;
     right: 0;
-    height: 60px;
+    height: 65px;
     display: flex;
     align-items: center;
     box-shadow: 0 0 25px 0 black;
@@ -103,11 +103,8 @@ p {
 
 nav a:focus {
     background-color: #f0c808;
+    color: navyblue;
   }
   nav a:hover {
     background-color: #f0c808;
   }
-  .active {
-    background-color: #c5e5ed;
-  }
-  
