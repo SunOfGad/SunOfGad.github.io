@@ -102,13 +102,15 @@ p {
     display:inline;      
 }
 
-nav a:focus {
-    background-color: #f0c808;
-    color: navyblue;
-  }
+
   nav a:hover {
-    background-color: #f0c808;
+    color: blueviolet;
   }
+
+  nav a:active {
+	color:green;
+	text-decoration: none;
+}
 
   nav div 
 {	
