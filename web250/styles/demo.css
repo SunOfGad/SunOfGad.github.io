@@ -62,14 +62,17 @@ nav {
     display: flex;
     align-items: center;
     box-shadow: 0 0 25px 0 black;
+    text-decoration: none;
 }
 
 nav * {
     display: inline;
+    text-decoration: none;
 }
 
 nav li {
     margin: 5px;
+    text-decoration: none;
 }
 
 nav li a {
