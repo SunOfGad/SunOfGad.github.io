@@ -6,7 +6,8 @@ body {
 }
 
 main {
-    color: lightskyblue
+    color: lightskyblue;
+    background-color: aquamarine;
 }
 
 header {
