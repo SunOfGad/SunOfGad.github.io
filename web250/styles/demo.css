@@ -53,7 +53,7 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    text-align: justify;
+    text-align: center;
   }
 
   .container{
@@ -62,5 +62,6 @@ p {
     font-size: 12pt;
     line-height: 12pt;          
     letter-spacing: 2px; 
-   
+    margin-left: 50px;
+    margin-right: 50px;
    }
