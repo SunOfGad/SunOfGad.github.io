@@ -105,6 +105,16 @@ p {
     display:inline;      
 }
 
+footer ul a {
+    list-style-type: none;
+    display:inline-flex;
+}
+
+footer li a {
+    list-style-type: none;
+    display: inline-flex;
+}
+
 
   nav a:hover {
     color: blueviolet;
