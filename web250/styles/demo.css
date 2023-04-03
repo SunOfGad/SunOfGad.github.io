@@ -1,6 +1,6 @@
 body {
     background-color: lightgrey;
-    font-family: sans-serif;
+    font-family: arial, sans-serif;
     margin-top: 0px;
     padding: 0px;
     margin:0;
@@ -17,7 +17,6 @@ header{
 
 main {
     color: purple ;
-    font: sans-serif;
 }
 
 nav {
@@ -68,4 +67,5 @@ p {
    html {
     margin-left: 100px;
     margin-right: 100px;
+    font:20px Arial, sans-serif
   }
