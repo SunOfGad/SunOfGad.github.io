@@ -104,15 +104,6 @@ p {
     display:inline;      
 }
 
-footer ul a {
-    list-style-type: none;
-}
-
-footer li a {
-    list-style-type: none;
-}
-
-
   nav a:hover {
     color: blueviolet;
   }
