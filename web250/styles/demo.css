@@ -113,3 +113,7 @@ footer div {
     margin-bottom: 20px;
     color: powderblue;
 }
+
+footer div a:hover {
+    color: red;
+}
