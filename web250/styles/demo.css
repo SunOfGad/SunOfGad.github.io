@@ -38,7 +38,7 @@ h2 {
 
 header{
     text-align: justify;
-    color: teal;
+    color: blueviolet;
 }
 
 html {
@@ -107,12 +107,10 @@ p {
 
 footer ul a {
     list-style-type: none;
-    display:inline-flex;
 }
 
 footer li a {
     list-style-type: none;
-    display: inline-flex;
 }
 
 
