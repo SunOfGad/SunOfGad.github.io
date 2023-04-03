@@ -109,3 +109,10 @@ nav a:focus {
   nav a:hover {
     background-color: #f0c808;
   }
+
+  nav div 
+{	
+	width:100%;
+	height:100%;
+	background-color: #f3f3f3;
+}
