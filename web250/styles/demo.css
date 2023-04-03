@@ -94,3 +94,7 @@ a:-webkit-any-link {
 nav a:hover {
     color: navyblue;
 }
+
+.picture{
+    text-align: center;
+  }
