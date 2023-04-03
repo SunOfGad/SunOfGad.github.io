@@ -115,30 +115,3 @@ nav div
 	background-color: #f3f3f3;
 }
 
-.navbar {
-    
-    background-color: transparent;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-  }
-  
-  .navbar a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  .navbar a:hover {
-    background: #f1f1f1;
-    color: rebeccapurple;
-  }
-  
-  .navbar a.active {
-    background-color: #04AA6D;
-    color: red;
-  }
