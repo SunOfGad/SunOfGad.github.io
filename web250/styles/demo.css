@@ -40,10 +40,6 @@ nav li a {
     text-decoration: none;
 }
 
-nav a:hover {
-    background-color: yellowgreen;
-  }
-
 p {
     display: block;
     margin-block-start: 1em;
