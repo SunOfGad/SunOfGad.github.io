@@ -98,7 +98,8 @@ p {
   footer {
     bottom: 0;
     text-align: center;
-    list-style-type: none;       
+    list-style-type: none; 
+    display:inline-block;      
 }
 
 nav a:focus {
