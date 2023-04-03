@@ -10,7 +10,7 @@ main {
     color: purple;
 }
 
-header {
+nav {
     background-color: powderblue;
     top: 0;
     left: 0;
@@ -22,11 +22,12 @@ header {
 }
 
 
-header li {
+
+nav li {
     margin: 10px;
 }
 
-header li a {
+nav li a {
     color: orange;
     text-decoration: none;
 }
