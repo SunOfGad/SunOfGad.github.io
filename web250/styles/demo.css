@@ -84,3 +84,7 @@ p {
     text-align: center;
     list-style-type: none;
   }
+
+main a:visited {
+    color: green;
+}
