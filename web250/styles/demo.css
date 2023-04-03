@@ -69,3 +69,18 @@ p {
     margin-right: 100px;
     font:20px Arial, sans-serif
   }
+
+  .brand{
+    text-align: center;
+    font-size: 12pt;
+    line-height: 12pt;          
+    letter-spacing: 2px; 
+    padding: 8px 6px 1px 6px;       
+    margin-right: 6px; 
+   
+  }
+
+  .validator{
+    text-align: center;
+    list-style-type: none;
+  }
