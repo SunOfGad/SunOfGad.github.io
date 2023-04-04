@@ -10,12 +10,12 @@ body {
     margin-top: 0px;
     padding: 0px;
     margin:0;
-    text-align:justify;
+
 }
 
 .brand{
     text-align: center;
-    font-size: 18pt;
+    font-size: 12pt;
     line-height: 15pt;           
     padding: 8px 6px 1px 6px;       
     margin-right: 6px; 
