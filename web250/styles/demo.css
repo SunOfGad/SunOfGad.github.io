@@ -117,3 +117,7 @@ footer {
 footer div a:hover {
     color: red;
 }
+
+a {
+    text-align: center;
+}
