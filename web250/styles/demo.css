@@ -131,6 +131,7 @@ footer a {
   margin-top: 45px;
   margin-bottom: 45px;
   box-shadow: 0 0 25px 0 black;
+  opacity: .5;
 }
 
 .pushleft{
