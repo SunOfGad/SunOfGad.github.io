@@ -78,7 +78,7 @@ nav li a {
 }
  
 p {
-    display: block;
+    display:block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
@@ -135,5 +135,16 @@ footer a {
 
 .pushleft{
     text-align: center;
+  }
+
+
+  .newbrand {
+    margin-top: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    color: blueviolet;
+    text-decoration: none;
+    
+
   }
   
