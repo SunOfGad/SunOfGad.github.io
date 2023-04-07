@@ -134,6 +134,10 @@ footer a {
   opacity: .5;
 }
 
+div.transparentbox p {
+  margin: 5%;
+}
+
 .pushleft{
     text-align: center;
   }
