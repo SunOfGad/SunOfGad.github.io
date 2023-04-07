@@ -133,19 +133,6 @@ footer a {
   box-shadow: 0 0 25px 0 black;
 }
 
-div.transparentbox p {
-  margin: 6%;
-  text-align: left;
-}
-
-div.transparentbox ul{
-  margin:3%;
-}
-
-div.transparentbox li {
-  text-decoration: none;
-}
-
 .pushleft{
     text-align: center;
   }
