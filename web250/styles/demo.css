@@ -134,19 +134,15 @@ footer a {
 }
 
 div.transparentbox p {
-  margin: 12%;
+  margin: 6%;
   text-align: left;
+}
+
+div.transparentbox ul{
+  margin:6%;
 }
 
 .pushleft{
     text-align: center;
   }
 
-
-  section {
-    margin-top: 50px;
-    margin-right: 50px;
-    text-align: justify;
-    text-decoration: none;
-  }
-  
