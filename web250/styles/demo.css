@@ -19,7 +19,6 @@ body {
     line-height: 15pt;           
     padding: 8px 6px 1px 6px;       
     margin-right: 6px; 
-   
   }
 
 .container{
@@ -90,7 +89,7 @@ p {
     text-align: center;
   }
 
-  nav a:hover {
+nav a:hover {
     color: red;
   }
 
