@@ -139,14 +139,12 @@ div.transparentbox p {
 }
 
 div.transparentbox ul{
-  margin:5%;
+  margin:3%;
 }
 
 div.transparentbox li {
   text-decoration: none;
-  margin: 5%;
 }
-
 
 .pushleft{
     text-align: center;
